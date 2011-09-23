@@ -1,0 +1,3 @@
+# Compass Extension Bootstrap
+
+A simple starting point for creating Compass extensions.
